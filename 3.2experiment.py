@@ -36,7 +36,7 @@ for i in l:
 3
 4
 5
-#for variablenin range(value)
+#for variable in range(value)
 for i in range(6):
     print(i)
 #output
